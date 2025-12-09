@@ -12,7 +12,7 @@
 
 ### 🙏 ChurchLink — Team of 7, Graduation Project
 
-Deployed Web Builder Platform for Church to customize a Website + App w/ Localization, Admin Dashboards, & Payments
+Deployed Web Builder Platform for Churches to customize a Website + App w/ Localization, Admin Dashboards, & Payments
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
