@@ -65,12 +65,6 @@ RAG workflow + MCP server = In-Game-Overlay w/ Generative UI Windows & Panels
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
 # Familiar Tech
 
 <div align="left">
