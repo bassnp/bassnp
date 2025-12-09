@@ -37,7 +37,7 @@ Agentic LangGraph Deep Researcher w/ CSE Web-Research + RAG GenUI Pipeline
 <td width="50%" valign="top">
 
 ### My Interactive Portfolio — **Ideal for Employers**
-Assess my resume w/ a Comparative Deep Researcher that brutally analyzes my resume against job descriptions/postitions
+Assess my resume w/ a Comparative Deep Researcher that brutally analyzes my resume against job descriptions/positions
 
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618.svg?style=flat-square&logo=radix-ui&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/Shadcn%20UI-%23000000?style=flat-square&logo=shadcnui&logoColor=white)
