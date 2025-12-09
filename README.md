@@ -10,7 +10,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ChurchLink — Team of 7, Graduation Project
+### 🙏 ChurchLink — Team of 7, Graduation Project
 
 Deployed Web Builder Platform for Church to customize a Website + App w/ Localization, Admin Dashboards, & Payments
 
@@ -26,7 +26,7 @@ Deployed Web Builder Platform for Church to customize a Website + App w/ Localiz
 </td>
 <td width="50%" valign="top">
 
-### CSE Agent — GenUI Web Researcher
+### 🤖 CSE Agent — GenUI Web Researcher
 Agentic LangGraph Deep Researcher w/ CSE Web-Research + RAG GenUI Pipeline 
 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-23337A?style=flat-square&logo=google%20gemini&logoColor=white)
@@ -43,7 +43,7 @@ Agentic LangGraph Deep Researcher w/ CSE Web-Research + RAG GenUI Pipeline
 <tr>
 <td width="50%" valign="top">
 
-### My Interactive Portfolio — **Made for Employers!**
+### 👀 My Interactive Portfolio — **Made for Employers!**
 Assess my resume w/ a Comparative Deep Researcher that brutally analyzes my resume against job descriptions/positions
 
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618.svg?style=flat-square&logo=radix-ui&logoColor=white)
@@ -57,7 +57,7 @@ Assess my resume w/ a Comparative Deep Researcher that brutally analyzes my resu
 </td>
 <td width="50%" valign="top">
 
-### Videogame Agent & MCP — Overwolf Overlay  
+### 👾 Videogame Agent & MCP — Overwolf Overlay  
 RAG workflow + MCP server + In-Game-Overlay = Generative UI HUD w/ Windows & Popups for real-time assistance
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%230066CC.svg?style=flat-square&logo=openai&logoColor=white)
