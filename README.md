@@ -60,7 +60,7 @@ Assess my resume w/ a Comparative Deep Researcher that brutally analyzes my resu
 ### 👾 Videogame Agent & MCP — Overwolf Overlay  
 RAG workflow + MCP server + In-Game-Overlay = Generative UI HUD w/ Windows & Popups for real-time assistance
 
-![OpenAI](https://img.shields.io/badge/OpenAI-%230066CC.svg?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-%230066CC.svg?style=flat-square&logo=openai&logoColor=white)
 ![Overwolf](https://img.shields.io/badge/🐺_Overwolf-%231a1a1a.svg?style=flat-square&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
