@@ -26,7 +26,7 @@ Deployed Web Builder Platform for Churches to customize a Website + App w/ Local
 </td>
 <td width="50%" valign="top">
 
-### 🤖 CSE Agent — GenUI Web Researcher
+### 🤖 Google CSE Agent — GenUI Web Researcher
 Agentic LangGraph Deep Researcher w/ CSE Web-Research + RAG GenUI Pipeline 
 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-23337A?style=flat-square&logo=google%20gemini&logoColor=white)
