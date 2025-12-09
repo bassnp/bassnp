@@ -97,6 +97,9 @@ RAG workflow + MCP server = In-Game-Overlay w/ Generative UI Windows & Panels
 
 <div align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassnp&" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassnp&show_icons=true&locale=en&layout=compact" alt="bassnp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassnp&" alt="bassnp" /></p>
+
 
 </div>
