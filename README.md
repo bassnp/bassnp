@@ -1,12 +1,12 @@
 <div align="left">
 
-## Favorite Projects
+# Favorite Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ChurchLink -- CSUS Senior Project
+### ChurchLink -- CSUS Senior Project -- Team of 7
 
 Deployed Web Builder Platform for Church to customize a Website + App w/ Localization, Admin Dashboards, & Payments
 
