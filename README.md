@@ -6,7 +6,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ChurchLink -- CSUS Senior Project -- Team of 7
+### ChurchLink — Team of 7, Graduation Project
 
 Deployed Web Builder Platform for Church to customize a Website + App w/ Localization, Admin Dashboards, & Payments
 
@@ -21,7 +21,7 @@ Deployed Web Builder Platform for Church to customize a Website + App w/ Localiz
 </td>
 <td width="50%" valign="top">
 
-### CSE Agent -- GenUI Web Researcher
+### CSE Agent — GenUI Web Researcher
 Agentic LangGraph Deep Researcher w/ CSE Web-Research + RAG GenUI Pipeline 
 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-23337A?style=flat-square&logo=google%20gemini&logoColor=white)
@@ -36,7 +36,7 @@ Agentic LangGraph Deep Researcher w/ CSE Web-Research + RAG GenUI Pipeline
 <tr>
 <td width="50%" valign="top">
 
-### My Interactive Portfolio -- **Ideal for Employers**
+### My Interactive Portfolio — **Ideal for Employers**
 Assess my resume w/ a Comparative Deep Researcher that brutally analyzes my resume against job descriptions/postitions
 
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618.svg?style=flat-square&logo=radix-ui&logoColor=white)
@@ -51,7 +51,7 @@ Assess my resume w/ a Comparative Deep Researcher that brutally analyzes my resu
 </td>
 <td width="50%" valign="top">
 
-### Zharvis -- RAG MCP for Overwolf
+### Zharvis — RAG MCP for Overwolf
 RAG workflow + MCP server = In-Game-Overlay w/ Generative UI Windows & Panels
 
 ![OpenAI](https://img.shields.io/badge/OpenAI%20GPT-%230066CC.svg?style=flat-square&logo=openai&logoColor=white)
