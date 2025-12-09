@@ -88,18 +88,3 @@ RAG workflow + MCP server = In-Game-Overlay w/ Generative UI Windows & Panels
 ### Top 5 Languages :: ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23000000.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="left">
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassnp&show_icons=true&locale=en&layout=compact" alt="bassnp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassnp&" alt="bassnp" /></p>
-
-
-</div>
