@@ -9,7 +9,7 @@
 <br><br>
 
 <!-- Profile Photo and Logo Side by Side -->
-<img src="https://i.gyazo.com/96e168e6e69713c717d76c9c000972ea.jpg" width="300" height="300" alt="Profile Photo">
+<img src="https://i.gyazo.com/7543c8991396edc6b9171ec9ac01cd9b.jpg" width="300" height="300" alt="Profile Photo">
 <img src="https://i.gyazo.com/45c10a77251c417cc4f6be92d2978e9c.png" width="300" height="300" alt="Header">
 
 <br><br>
