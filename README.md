@@ -3,7 +3,7 @@
 
 <!-- Website Link -->
 <a href="https://jadenbruha.com" target="_blank">
-  <strong>View my Interactive AI Portfolio</strong>
+  <strong>View my Interactive AI Researcher Portfolio</strong>
 </a>
 
 <br><br>
