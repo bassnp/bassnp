@@ -1,6 +1,25 @@
+
 <div align="center">
 
+<!-- Website Link -->
+<a href="https://jadenbruha.com" target="_blank">
+  <strong>View my Interactive AI Portfolio</strong>
+</a>
+
+<br><br>
+
+<!-- Profile Photo and Logo Side by Side -->
+<img src="https://i.gyazo.com/96e168e6e69713c717d76c9c000972ea.jpg" width="300" height="300" alt="Profile Photo">
 <img src="https://i.gyazo.com/45c10a77251c417cc4f6be92d2978e9c.png" width="300" height="300" alt="Header">
+
+<br><br>
+
+<!-- GitHub Profile Link -->
+<a href="https://github.com/bassnp" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-bassnp-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+</a>
+
+</div>
 
 <div align="left">
 
