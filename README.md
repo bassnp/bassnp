@@ -1,13 +1,6 @@
 
 <div align="center">
 
-<!-- Website Link -->
-<a href="https://jadenbruha.com" target="_blank">
-  <strong>View my Interactive AI Researcher Portfolio</strong>
-</a>
-
-<br><br>
-
 <!-- Profile Photo and Logo Side by Side -->
 <img src="https://i.gyazo.com/7543c8991396edc6b9171ec9ac01cd9b.jpg" width="300" height="300" alt="Profile Photo">
 <img src="https://i.gyazo.com/45c10a77251c417cc4f6be92d2978e9c.png" width="300" height="300" alt="Header">
@@ -94,3 +87,16 @@ RAG workflow + MCP server + In-Game-Overlay = Generative UI HUD w/ Windows & Pop
 ### DevOps :: ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat-square&logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat-square&logo=slack&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23A259FF.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?style=flat-square&logo=docker&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=flat-square&logo=capcut&logoColor=white)
 
 ### My Top 5 Tech :: ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+
+<!-- Website Link -->
+
+<br>
+
+<div align="center">
+  
+  # View my Interactive Portfolio
+  
+  <a href="https://jadenbruha.com" target="_blank">
+    <strong>jadenbruha.com</strong>
+  </a> - Use my open-source AI Researcher Agent to brutally analyze my qualifications
+</div>
