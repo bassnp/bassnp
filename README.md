@@ -94,9 +94,7 @@ RAG workflow + MCP server + In-Game-Overlay = Generative UI HUD w/ Windows & Pop
 
 <div align="center">
   
-  # View my Interactive Portfolio
-  
   # <a href="https://jadenbruha.com" target="_blank">jadenbruha.com</a>
-
+  
   Use my open-source AI Researcher Agent to brutally analyze my qualifications
 </div>
